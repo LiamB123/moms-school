@@ -9,7 +9,7 @@ dj-database-url==0.5.0
 django-storages==1.8
 docutils==0.14
 gunicorn==19.7.1
-html5lib==0.999
+html5lib==0.999999999
 jmespath==0.9.3
 olefile==0.44
 Pillow==6.2.0
